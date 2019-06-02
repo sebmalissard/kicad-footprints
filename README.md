@@ -15,3 +15,16 @@ Other KiCad library repositories are located:
 * **3D Models:** https://gitlab.com/kicad/libraries/kicad-packages3d
 * **Templates:** https://gitlab.com/kicad/libraries/kicad-templates
 
+----------------------------------------------------------------------------------------------------
+
+This is a fork of the official KiCad footprint libraries.
+
+Installation
+```
+git clone https://github.com/sebmalissard/kicad-symbols ${HOME}/Workspace/KiCad/kicad-footprints
+```
+
+Update KICAD8_FOOTPRINT_DIR in KiCad pcbnew, go to "Preferences" > "Configures Paths..." (example with HOME=/home/seb).
+```
+KICAD8_FOOTPRINT_DIR = /home/seb/ws/kicad/kicad-footprints
+```
