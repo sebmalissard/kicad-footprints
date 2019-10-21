@@ -23,8 +23,15 @@ Installation
 ```
 git clone https://github.com/sebmalissard/kicad-symbols ${HOME}/Workspace/KiCad/kicad-footprints
 ```
+Synchronize fp-lib-table
+```
+meld ${HOME}/.config/kicad/fp-lib-table ${HOME}/Workspace/KiCad/kicad-footprints/fp-lib-table
+```
 
 Update KICAD8_FOOTPRINT_DIR in KiCad pcbnew, go to "Preferences" > "Configures Paths..." (example with HOME=/home/seb).
 ```
 KICAD8_FOOTPRINT_DIR = /home/seb/ws/kicad/kicad-footprints
 ```
+
+Source of added libraries:
+* Promicro: https://github.com/Biacco42/ProMicroKiCad.git
