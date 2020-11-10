@@ -35,3 +35,4 @@ KICAD8_FOOTPRINT_DIR = /home/seb/ws/kicad/kicad-footprints
 
 Source of added libraries:
 * Promicro: https://github.com/Biacco42/ProMicroKiCad.git
+* Teensy: https://github.com/XenGi/teensy.pretty

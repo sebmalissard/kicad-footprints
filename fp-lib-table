@@ -142,4 +142,5 @@
   (lib (name Valve)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Valve.pretty)(options "")(descr "Valve"))
   (lib (name Varistor)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Varistor.pretty)(options "")(descr "Varistor"))
   (lib (name Promicro)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Promicro.pretty)(options "")(descr "Arduino promicro"))
+  (lib (name Teensy)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Teensy.pretty)(options "")(descr "Teensy microcontrollers"))
 )
