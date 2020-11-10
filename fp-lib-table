@@ -133,4 +133,5 @@
   (lib (name Valve)(type KiCad)(uri ${KISYSMOD}/Valve.pretty)(options "")(descr "Valve"))
   (lib (name Varistor)(type KiCad)(uri ${KISYSMOD}/Varistor.pretty)(options "")(descr "Varistor"))
   (lib (name promicro)(type KiCad)(uri ${KISYSMOD}/promicro.pretty)(options "")(descr "Arduino promicro"))
+  (lib (name Teensy)(type KiCad)(uri ${KISYSMOD}/Teensy.pretty)(options "")(descr "Teensy microcontrollers"))
 )
