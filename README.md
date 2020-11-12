@@ -42,5 +42,6 @@ KISYSMOD = /home/seb/Workspace/KiCad/kicad-footprints
 ```
 
 Source of added libraries:
+* Pololu
 * promicro: https://github.com/Biacco42/ProMicroKiCad.git
 * Teensy: https://github.com/XenGi/teensy.pretty
