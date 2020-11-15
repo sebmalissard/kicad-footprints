@@ -1,4 +1,4 @@
-(module Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical (layer F.Cu) (tedit 5CA3843E)
+(module Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical (layer F.Cu) (tedit 5FB04A16)
   (descr "Molex Micro-Fit 3.0 Connector System, 43650-0215 (compatible alternatives: 43650-0216, 43650-0217), 2 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex Micro-Fit_3.0 vertical")
   (fp_text reference REF** (at 1.5 -3.67) (layer F.SilkS)
@@ -45,5 +45,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical.step
+    (offset (xyz 1.5 0 5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
   )
 )
