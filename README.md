@@ -34,6 +34,7 @@ KICAD8_FOOTPRINT_DIR = /home/seb/ws/kicad/kicad-footprints
 ```
 
 Source of added libraries:
+* ESP8266: https://github.com/jdunmire/kicad-ESP8266.git (1f3d2c6e49285d4ab4976efc04913bd3974290c1)
 * Pololu
 * Promicro: https://github.com/Biacco42/ProMicroKiCad.git
 * Teensy: https://github.com/XenGi/teensy.pretty

@@ -144,4 +144,5 @@
   (lib (name Pololu)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Pololu.pretty)(options "")(descr "Pololu"))
   (lib (name Promicro)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Promicro.pretty)(options "")(descr "Arduino promicro"))
   (lib (name Teensy)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Teensy.pretty)(options "")(descr "Teensy microcontrollers"))
+  (lib (name ESP8266)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/ESP8266.pretty)(options "")(descr "ESP8266 modules"))
 )
